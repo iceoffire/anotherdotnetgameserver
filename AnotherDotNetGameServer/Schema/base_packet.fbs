@@ -1,0 +1,6 @@
+namespace Main;
+
+table Packet {
+  route:string;
+  payload:[ubyte];
+}

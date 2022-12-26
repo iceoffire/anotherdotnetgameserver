@@ -1,0 +1,6 @@
+namespace Base;
+
+table Test {
+  name:string;
+  damage:int;
+}

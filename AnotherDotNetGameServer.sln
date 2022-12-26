@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnotherDotNetGameServer", "AnotherDotNetGameServer\AnotherDotNetGameServer.csproj", "{39B3FC22-6CA0-4261-9712-E06C3F2D7096}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumerTest", "ConsumerTest\ConsumerTest.csproj", "{8EE399A7-2172-49BE-9701-CB22AF6FE706}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnotherDotNetGameServer.Interface", "AnotherDotNetGameServer.Interface\AnotherDotNetGameServer.Interface.csproj", "{4F63C957-9CE3-4AB4-903C-7592D19ED4E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39B3FC22-6CA0-4261-9712-E06C3F2D7096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39B3FC22-6CA0-4261-9712-E06C3F2D7096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39B3FC22-6CA0-4261-9712-E06C3F2D7096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39B3FC22-6CA0-4261-9712-E06C3F2D7096}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EE399A7-2172-49BE-9701-CB22AF6FE706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EE399A7-2172-49BE-9701-CB22AF6FE706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EE399A7-2172-49BE-9701-CB22AF6FE706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EE399A7-2172-49BE-9701-CB22AF6FE706}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F63C957-9CE3-4AB4-903C-7592D19ED4E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F63C957-9CE3-4AB4-903C-7592D19ED4E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F63C957-9CE3-4AB4-903C-7592D19ED4E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F63C957-9CE3-4AB4-903C-7592D19ED4E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
